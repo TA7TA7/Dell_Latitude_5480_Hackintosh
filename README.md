@@ -6,7 +6,7 @@
 
 Provided efi is working perfectely fine and is very stable for daily use 
 #
-This repo contains the files necessary to install Monterey in Dell latitude 5480
+This repo contains the files necessary to install Sonoma in Dell latitude 5480
 
 Patch your systems own DSDT Accordingly
 
