@@ -30,7 +30,7 @@ Patch your systems own DSDT Accordingly
 - [x] Intel HD 520 Graphics (with graphics acceleration spoofed as Intel HD 620)
 - [x] HDMI port (With HDMI Audio no purple tint)
 - [x] Internel Speaker
-- [x] Headphone Jack
+- [x] Headphone Jack [ Solved Thanks to [jlobodroid](https://github.com/jlobodroid) ]
 - [x] Internal camera 
 - [x] Trackpad (multigestures work use tap to click option)
 - [x] CPU Power Management 
@@ -51,6 +51,7 @@ Patch your systems own DSDT Accordingly
 ```
 sudo launchctl disable gui/501/com.apple.transparencyd
 ```
+- [x] For Headphone Jack Follow [this guide](https://github.com/lvs1974/ComboJack)
 # Refrences
 - [Dortania Opencore Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 
