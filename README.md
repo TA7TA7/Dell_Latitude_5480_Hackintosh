@@ -47,7 +47,7 @@ Patch your systems own DSDT Accordingly
 - [x] Handoff, Universal control, Airdrop (Unless you have Broadcom wifi Card)
 - [x] Everything Else Work
 
-#Fixes
+# Fixes
 - [x] For Headphone Jack Follow [this guide](https://github.com/lvs1974/ComboJack)
 
 # Refrences
