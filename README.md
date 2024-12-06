@@ -31,7 +31,7 @@ Patch your systems own DSDT Accordingly
 - [x] Intel HD 520 Graphics (with graphics acceleration)
 - [x] HDMI port (With HDMI Audio)
 - [x] Internel Speaker
-- [x] Headphone Jack
+- [x] Headphone Jack [ Solved Thanks to [jlobodroid](https://github.com/jlobodroid) ]
 - [x] Internal camera 
 - [x] Trackpad (gestures work use tap to click option)
 - [x] CPU Power Management 
@@ -46,6 +46,9 @@ Patch your systems own DSDT Accordingly
 # What's not working ⚠️
 - [x] Handoff, Universal control, Airdrop (Unless you have Broadcom wifi Card)
 - [x] Everything Else Work
+
+#Fixes
+- [x] For Headphone Jack Follow [this guide](https://github.com/lvs1974/ComboJack)
 
 # Refrences
 - [Dortania Opencore Guide](https://dortania.github.io/OpenCore-Install-Guide/)
